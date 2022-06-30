@@ -1,0 +1,15 @@
+{
+    "ownerNumber": ["6287707119931@s.whatsapp.net"],
+    "ownerName": "@jotha_store",
+    "instagram" : "https://instagram.com/jotha_store",
+    "botName": "Jotha Bot ",
+    "footer": "WhatsApp Bot",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    }
+}
